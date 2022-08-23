@@ -1,3 +1,5 @@
+# 统计英语文章每个单词出现的次数
+
 word_count = {}
 
 with open("./en_content.txt") as fin:

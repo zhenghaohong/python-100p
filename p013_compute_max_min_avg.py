@@ -1,3 +1,5 @@
+# 读取成绩文件实现最低分最高分平均分
+
 def compute_score():
     scores = []
     with open("./student_grade_input.txt") as fin:

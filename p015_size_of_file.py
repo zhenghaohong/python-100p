@@ -1,5 +1,5 @@
 
-
+# 统计目录下的文件大小
 import os
 print(os.path.getsize("en_content.txt"))
 

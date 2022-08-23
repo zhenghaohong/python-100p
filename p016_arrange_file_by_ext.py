@@ -1,3 +1,5 @@
+# 按文件后缀整理文件夹
+
 import os
 
 dirPath = "./arrange_dir"

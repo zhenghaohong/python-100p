@@ -1,3 +1,5 @@
+# 求前N个数字的平方和
+
 def sum_of_square(n):
     result = 0
     for number in range(1, n + 1):
